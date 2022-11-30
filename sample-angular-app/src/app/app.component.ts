@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'sample-angular-app';
+  title = 'Pushing angular application to GitHub';
   onsubmit(form:any){
     console.log(form)
   }
